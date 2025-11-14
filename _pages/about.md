@@ -19,13 +19,13 @@ I am highly self-motivated and passionate about AI research, and I am actively s
 
 - [ ] Lerobot: achieve multiple algorithms and Implement models on simpler-env, RLBench, and VLA Bench
 - [ ] Finish the review of CS231N notes and coursework
-- [ ] Grasp all the skills in the next semester (miss-semester)
+- [ ] Grasp all the skills in miss-semester course of  mit
 - [ ] Accomplish the reading of Reinforcement Learning papers (25 essays)
 - [ ] Accomplish the reading of CV + VLM and related papers (30 essays)
 
 <div style="background-color: #eee; border-radius: 5px;">
   <div style="width: 0%; background-color: #007bff; color: white; text-align: right; padding-right: 10px; border-radius: 5px; height: 30px; line-height: 30px;">
-    0 / 25 (0%)
+    1 / 25 (0%)
   </div>
 </div>
 
