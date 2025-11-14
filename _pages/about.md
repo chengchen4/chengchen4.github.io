@@ -13,6 +13,30 @@ My research primarily focuses on developing a general embodied agent capable of 
 
 I am highly self-motivated and passionate about AI research, and I am actively seeking research collaborations, internships, and PhD opportunities. Please refer to my CV for detailed information, and feel free to contact me
 
+
+
+## Current Academic To-Do List
+
+- [ ] Lerobot: achieve multiple algorithms and Implement models on simpler-env, RLBench, and VLA Bench
+- [ ] Finish the review of CS231N notes and coursework
+- [ ] Grasp all the skills in the next semester (miss-semester)
+- [ ] Accomplish the reading of Reinforcement Learning papers (25 essays)
+- [ ] Accomplish the reading of CV + VLM and related papers (30 essays)
+
+<div style="background-color: #eee; border-radius: 5px;">
+  <div style="width: 0%; background-color: #007bff; color: white; text-align: right; padding-right: 10px; border-radius: 5px; height: 30px; line-height: 30px;">
+    0 / 25 (0%)
+  </div>
+</div>
+
+<br>
+
+<div style="background-color: #eee; border-radius: 5px;">
+  <div style="width: 0%; background-color: #28a745; color: white; text-align: right; padding-right: 10px; border-radius: 5px; height: 30px; line-height: 30px;">
+    0 / 30 (0%)
+  </div>
+</div>
+
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads! -->
