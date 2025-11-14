@@ -23,18 +23,24 @@ I am highly self-motivated and passionate about AI research, and I am actively s
 - [ ] Accomplish the reading of Reinforcement Learning papers (25 essays)
 - [ ] Accomplish the reading of CV + VLM and related papers (30 essays)
 
-<div style="background-color: #eee; border-radius: 5px;">
-  <div style="width: 0%; background-color: #007bff; color: white; text-align: right; padding-right: 10px; border-radius: 5px; height: 30px; line-height: 30px;">
-    1 / 25 (0%)
+<div style="display: flex; gap: 20px; margin-top: 20px;">
+  <div style="flex: 1 1 50%;">
+    <p style="margin: 0 0 5px 0; font-weight: bold;">RL Papers (25):</p>
+    <div style="background-color:#eee;border-radius:5px;">
+      <div style="width:4%;background-color:#007bff;color:white;text-align:right;padding-right:10px;border-radius:5px;height:30px;line-height:30px;">
+        <span>1 / 25 (4%)</span>
+      </div>
+    </div>
   </div>
-</div>
-
-<br>
-
-<div style="background-color: #eee; border-radius: 5px;">
-  <div style="width: 0%; background-color: #28a745; color: white; text-align: right; padding-right: 10px; border-radius: 5px; height: 30px; line-height: 30px;">
-    0 / 30 (0%)
+  <div style="flex: 1 1 50%;">
+    <p style="margin: 0 0 5px 0; font-weight: bold;">VLM Papers (30):</p>
+    <div style="background-color:#eee;border-radius:5px;">
+      <div style="width:0%;background-color:#28a745;color:white;text-align:right;padding-right:10px;border-radius:5px;height:30px;line-height:30px;">
+        <span>0 / 30 (0%)</span>
+      </div>
+    </div>
   </div>
+  
 </div>
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
