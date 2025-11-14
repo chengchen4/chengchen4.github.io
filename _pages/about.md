@@ -29,7 +29,6 @@ I am highly self-motivated and passionate about AI research, and I am actively s
     <p style="margin: 0 0 5px 0; font-weight: bold;">RL Papers (25):</p>
     <div style="background-color:#eee;border-radius:5px;">
       <div style="width:4%;background-color:#007bff;color:white;text-align:right;padding-right:10px;border-radius:5px;height:30px;line-height:30px;">
-        <span>4%</span>
       </div>
     </div>
   </div>
@@ -37,7 +36,6 @@ I am highly self-motivated and passionate about AI research, and I am actively s
     <p style="margin: 0 0 5px 0; font-weight: bold;">VLM Papers (30):</p>
     <div style="background-color:#eee;border-radius:5px;">
       <div style="width:0%;background-color:#28a745;color:white;text-align:right;padding-right:10px;border-radius:5px;height:30px;line-height:30px;">
-        <span>0%</span>
       </div>
     </div>
   </div>
