@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "ChengChen's websites"
+title                    : "根深木自繁 树正方叶茂"
 title_separator          : "-"
 name                     : &name "Cheng Chen / 陈诚"
 description              : &description "Academic portfolio of Cheng Chen"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,7 +24,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Cheng Chen"
+  name             : "Cheng Chen / 陈诚"
   pronouns         : # example: "she/her"  
   bio              : "Bachelor at BJTU, Master student at Zhejiang University. Research interests include reinforcement learning and embodied robotic manipulation."
   location         : "China"
@@ -253,14 +253,14 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  # - scope:
+  #     path: ""
+  #     type: teaching
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comments: true
   # _publications
   - scope:
       path: ""
@@ -280,13 +280,13 @@ defaults:
       share: true
       comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  # - scope:
+  #     path: ""
+  #     type: talks
+  #   values:
+  #     layout: talk
+  #     author_profile: true
+  #     share: true
 
 
 # Sass/SCSS
