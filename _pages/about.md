@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "This is my website"
+title: "Cheng Chen: Embodied Agents & Reinforcement Learning"
 author_profile: true
 redirect_from: 
   - /about/
