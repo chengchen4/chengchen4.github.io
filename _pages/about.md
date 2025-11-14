@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a master 0 's student at the ZJU CAD&CG Lab. I will receive my Bachelor's degree from Bei JIng JiaoTong University in 2026.
+I am currently pursuing a Master's degree at the Zhejiang University (ZJU) CAD&CG Lab, and I will receive my Bachelor's degree from Beijing Jiaotong University in 2026.
 
-My research interest primarily focus on developing a general emobdied agnet interacting with the real world. To accomplish this goal, my current research interest encompasses Reinforcement Learning(RL), Vision language model, ddiffusion models. I am highly self-motivated and possess a strong passion for AI research. I am constantly seeking opportunities for research collaborations, research interns, and PhD. You can find detailed information about me in my CV. Feel free to contact me.
+My research primarily focuses on developing a general embodied agent capable of interacting with the real world. My current interests include Reinforcement Learning (RL), Vision-Language Models (VLMs), and Diffusion Models.
+
+I am highly self-motivated and passionate about AI research, and I am actively seeking research collaborations, internships, and PhD opportunities. Please refer to my CV for detailed information, and feel free to contact me
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
