@@ -22,13 +22,14 @@ I am highly self-motivated and passionate about AI research, and I am actively s
 - [ ] Grasp all the skills in miss-semester course of  mit
 - [ ] Accomplish the reading of Reinforcement Learning papers (25 essays)
 - [ ] Accomplish the reading of CV + VLM and related papers (30 essays)
+- [ ] Publis a paper in robot learning area
 
 <div style="display: flex; gap: 20px; margin-top: 20px;">
   <div style="flex: 1 1 50%;">
     <p style="margin: 0 0 5px 0; font-weight: bold;">RL Papers (25):</p>
     <div style="background-color:#eee;border-radius:5px;">
       <div style="width:4%;background-color:#007bff;color:white;text-align:right;padding-right:10px;border-radius:5px;height:30px;line-height:30px;">
-        <span>1 / 25 (4%)</span>
+        <span>4%</span>
       </div>
     </div>
   </div>
@@ -36,7 +37,7 @@ I am highly self-motivated and passionate about AI research, and I am actively s
     <p style="margin: 0 0 5px 0; font-weight: bold;">VLM Papers (30):</p>
     <div style="background-color:#eee;border-radius:5px;">
       <div style="width:0%;background-color:#28a745;color:white;text-align:right;padding-right:10px;border-radius:5px;height:30px;line-height:30px;">
-        <span>0 / 30 (0%)</span>
+        <span>0%</span>
       </div>
     </div>
   </div>
