@@ -28,7 +28,7 @@ I am highly self-motivated and passionate about AI research, and I am actively s
   <div style="flex: 1 1 50%;">
     <p style="margin: 0 0 5px 0; font-weight: bold;">RL Papers (25):</p>
     <div style="background-color:#eee;border-radius:5px;">
-      <div style="width:4%;background-color:#007bff;color:white;text-align:right;padding-right:10px;border-radius:5px;height:30px;line-height:30px;">
+      <div style="width:8%;background-color:#007bff;color:white;text-align:right;padding-right:10px;border-radius:5px;height:30px;line-height:30px;">
       </div>
     </div>
   </div>
